@@ -1,0 +1,28 @@
+# Logseq auto-generated files and directories
+/.logseq/
+/logseq/
+/logs/
+
+# Backup files
+*.bak
+
+# Operating system files
+.DS_Store # macOS desktop services store
+Thumbs.db # Windows thumbnail cache
+desktop.ini # Windows folders settings
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Node modules
+node_modules/
+
+# Editor-specific settings and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+
