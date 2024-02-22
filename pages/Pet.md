@@ -11,5 +11,5 @@ type:: entity
 	- UpdateVaccinationRecord([[Vaccination]])
 	- ScheduleAppointment([[AppointmentDetails]])
 -
-- **Also known as**: Mascota, Haustier
--
+- **Description**: A tiny bundle of joy with sparkling eyes full of love
+- **Also known as (these names are not encouraged)**: Mascota, Haustier

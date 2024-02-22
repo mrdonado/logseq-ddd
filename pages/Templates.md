@@ -1,6 +1,13 @@
 icon:: 🪄
 exclude-from-graph-view:: true
 
+-
+- ## Additional Information
+  template:: Additional Information
+  template-including-parent:: false
+	- **Description**:
+	- **Also known as (these names are not encouraged)**:
+-
 - ## Entity
   template:: Entity
   template-including-parent:: false
